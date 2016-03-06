@@ -5,43 +5,77 @@ permalink: /about/index.html
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+## 教育背景
+**大连理工大学**
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+* 专业：软件工程（日语强化）
+* 学历：本科
+* 在读时间：2010.9 － 2015.7
 
-<h2>Skills</h2>
+**香港中文大学**
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+* 专业：计算机科学
+* 学历：研究生
+* 在读时间：2015.9 － 2016.10
 
-<h2>Projects</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+## 专业技能
+
+###
+
+* 精通Swift，熟悉Objective-C
+* 精通Cocoa Touch，掌握Media、Core Service、Core OS
+* 掌握常用设计模式，了解主流应用架构
+* 有Java/Ruby on Rails服务器端编程经验
+* 熟悉PostgreSQL/mongoDB
+* 有良好的编程习惯，喜欢干净的代码，追求工程质量
+* 熟悉TDD以及BDD，有敏捷开发经验
+* 熟悉常用的版本管理和持续集成工具
+* 有良好的英文读写，习惯阅读官方文档以及其他资料辅助开发
+
+###
+
+* 有扎实的数据结构和算法基础
+* 熟悉面向对象编程思想
+* 有C/C++编程经验
+* 有机器学习、数据挖掘项目经验
+*
+
+
+## 项目经历
+
+**诗色**
+
+诗色是一款展示中国传统颜色与诗文的展示、记录和分享应用，它的目标用户是对中国传统美术和诗词文化感兴趣，喜欢欣赏和分享的用户。应用遵循苹果官方设计与开发指南和文档。它由我和另一位开发者独立设计、开发至今，将于3月正式上线App Store。我参与并负责：
+
+* 应用的概念设计，包括功能列表、目标用户以及主要功能的确定
+* 应用的基本交互设计，并制作原型
+* 应用的整体架构，应用数据结构与存储方式设计，应用主要的控制器与视图的设计
+* 美术风格的确定以及部分UI的设计
+* 测试以及大部分功能代码的编写
+
+**时光机**
+
+时光机是一款漂亮简洁的社交网络应用，围绕着“穿越时空”的主题，让用户可以浏览、分享、讨论不同时空的记忆碎片。它由我和另一位开发者2015年底独立设计、开发至今，仍在迭代中。我参与并负责的有：
+
+* 应用的交互设计，以及原型的制作
+* 应用Model的设计和开发
+* 应用基本的控制器与视图的设计和开发
+* 部分应用服务端的开发
+
+**[Crow](http://crow.chaoxsuper.com/)**
+
+Crow通过实时查询大量的Twitter Streaming Data，统计分析各行业的热门词汇与实施趋势，并对分析数据进行可视化展示。项目由我和其他两位开发者进行开发以及维护。我参与并负责：
+
+* 系统的设计
+* 部分后台的配置以及推特数据的爬取
+* 推特用户数据的分析
+* 推文数据的分析
+
+**穿衣搭配推荐系统**
+
+通过对现有搭配套餐、用户购买记录、商品标题等数据进行分析，向用户推荐新的搭配套餐。系统由我和另外三位开发者负责开发，我参与并负责的有：
+
+* 基于用户购买记录的Collaborative Filtering
+* Neighborhood-based和Model based模型的评估
+* 结果数据集的处理
