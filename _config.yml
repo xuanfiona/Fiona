@@ -17,20 +17,20 @@ highlighter: rouge
 analytics-google: 'UA-MYANALYTICS'
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+disqus: xuanfiona
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: myfacebook
+#twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-medium: medium
-email: myemail@gmail.com
+#linkedin: mylinkedin
+#youtube: myyoutube
+#spotify: myspotify
+#github: mygithub
+#medium: medium
+email: zhuxuanangel@gmail.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
