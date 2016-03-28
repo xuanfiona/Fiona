@@ -6,6 +6,7 @@ permalink: /about/index.html
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 ## 教育背景
+
 **大连理工大学**
 * 专业：软件工程（日语强化）
 * 学历：本科
@@ -33,7 +34,7 @@ permalink: /about/index.html
 
 ## 项目经历
 
-**[诗色]**
+**[诗色](shise.chaoxsuper.com)**
 
 诗色是一款展示中国传统颜色与诗文的展示、记录和分享应用，它的目标用户是对中国传统美术和诗词文化感兴趣，喜欢欣赏和分享的用户。应用遵循苹果官方设计与开发指南和文档。它由我和另一位开发者独立设计、开发至今，**于3月正式上线App Store，并被App Store首页推荐，被列为艺术与创作区精品推荐**。我参与并负责：
 
@@ -56,7 +57,7 @@ permalink: /about/index.html
 
 Dairy是一款简单精致的日记应用。不同于其他日记应用，Dairy专注于提供最简易的功能和最完整的体验，让用户沉浸其中。这款应用由我独立设计开发，并将于2016年4月份上线。
 
-**[Crow]**
+**[Crow](crow.chaoxsuper.com)**
 
 Crow通过实时查询大量的Twitter Streaming Data，统计分析各行业的热门词汇与实施趋势，并对分析数据进行可视化展示。项目由我和其他两位开发者进行开发以及维护。我参与并负责：
 
